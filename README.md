@@ -1,5 +1,4 @@
-<h1>Data Structures:<h1>
-<h2>Stacks, Queues, and Linked Lists<h2>
+<h1>Data Structures:<h1><h2>Stacks, Queues, and Linked Lists<h2>
 
 
 
