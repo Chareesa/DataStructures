@@ -1,5 +1,6 @@
-Data Structures:<br/><h2>Stacks, Queues, and Linked Lists<h2>
-=============================================================
+<h1>Data Structures:<h1>
+<br/><h2>Stacks, Queues, and Linked Lists<h2>
+
 
 
 [![Build Status](https://travis-ci.org/Chareesa/DataStructures.svg?branch=3rd-branch)](https://travis-ci.org/Chareesa/DataStructures)
