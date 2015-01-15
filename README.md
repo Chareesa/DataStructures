@@ -1,4 +1,4 @@
-Data Structures: <br/>Stacks, Queues, and Linked Lists
+Data Structures: <br/><h2>Stacks, Queues, and Linked Lists<h2>
 =================================================
 
 
